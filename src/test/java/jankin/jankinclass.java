@@ -10,6 +10,7 @@ public class jankinclass {
 	   System.out.println("automate2");
 	   System.out.println("hddddd");	
 	   System.out.println("haiiii");
+	   System.out.println("hhhhhh");
 	   }
 
 }
